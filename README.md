@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello World! 👋
+I'm Ram Kishan a 2nd year MCA (Master of Computer Applications) student at National Intitute of Technology Surathkal.
+I'm a Tech Enthusiastic, having interest in Full-Stack Developement and solving Data Structure and Alogrithm problems.
 
+
+- 🌱 I’m currently learning: Dynamic Programming, Operating System
+- 💬 Ask me about : Full Stack Development using Python Django Framework, Data Structures and Alogrithm, C++, Python
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ram-kishan-t-678455b2/">Linkedin</a>
+- 😄 Pronouns: He/His
 <!--
 **ramkishanteli2/ramkishanteli2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
