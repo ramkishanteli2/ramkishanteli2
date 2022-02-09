@@ -4,8 +4,8 @@ I'm Ram Kishan a 2nd year MCA (Master of Computer Applications) student at Natio
 I'm a Tech Enthusiastic, having interest in Full-Stack Developement and solving Data Structure and Alogrithm problems.
 
 
-- 🌱 I’m currently learning: Dynamic Programming, Operating System
-- 💬 Ask me about : Full Stack Development using Python Django Framework, Data Structures and Alogrithm, C++, Python
+- 🌱 I’m currently learning: Graph, Operating System
+- 💬 Ask me about : Full Stack Development using Python Django Framework, Data Structures and Alogrithm, C, C++, Python
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ram-kishan-t-678455b2/">Linkedin</a>
 - 😄 Pronouns: He/His
 <!--
