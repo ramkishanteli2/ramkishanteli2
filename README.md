@@ -1,7 +1,7 @@
 ### Hello World! 👋
 <hr>
-I'm Ram Kishan a 2nd year MCA (Master of Computer Applications) student at National Intitute of Technology Surathkal.
-I'm a Tech Enthusiastic, having interest in Full-Stack Developement and solving Data Structure and Alogrithm problems.
+I'm Ram Kishan a 2nd year MCA (Master of Computer Applications) student at National Institute of Technology Surathkal.
+I'm a Tech Enthusiastic, having interest in Full-Stack Development and solving Data Structure and Algorithms problems.
 
 
 - 🌱 I’m currently learning: Graph, Operating System
